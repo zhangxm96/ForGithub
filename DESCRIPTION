@@ -1,0 +1,13 @@
+Package: HW05XMZ
+Type: Package
+Title: Simple square root calculate
+Version: 0.1.0
+Author: @R: person("Ximing", "Zhang", email = "xz2870@columbia.edu",
+      role = c("ins", "stn"))
+Maintainer: The package maintainer <xz2870@columbia.edu>
+Description: To calculate the power of x to 1/y.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Dependencies: use_package("dplyr"), use_package("purrr", "Suggests")
+LazyData: true
+RoxygenNote: 6.1.99.9001
